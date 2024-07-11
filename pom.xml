@@ -20,7 +20,7 @@
         <slf4j.version>2.0.13</slf4j.version>
         <rest.assured.version>5.4.0</rest.assured.version>
         <java.faker.version>1.0.2</java.faker.version>
-        <project.lamdok.version>1.18.32</project.lamdok.version>
+        <project.lamdok.version>1.18.34</project.lamdok.version>
         <suite.xml>TestNG.xml</suite.xml>
     </properties>
 
